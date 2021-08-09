@@ -53,3 +53,4 @@ MIT
 
 ![alt text](https://github.com/brianhabana/Fintech_Finder/blob/main/Images/Screen%20Shot%202021-08-08%20at%208.55.17%20PM.png)
 ![alt text](https://github.com/brianhabana/Fintech_Finder/blob/main/Images/Screen%20Shot%202021-08-08%20at%208.55.29%20PM.png)
+![alt text](https://github.com/brianhabana/Fintech_Finder/blob/main/Images/Screen%20Shot%202021-08-08%20at%209.28.41%20PM.png)
